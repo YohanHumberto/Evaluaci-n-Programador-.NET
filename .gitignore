@@ -1,0 +1,38 @@
+## Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userprefs
+
+## Build
+bin/
+obj/
+**/bin/
+**/obj/
+
+## NuGet
+*.nupkg
+packages/
+
+## Rider
+.idea/
+
+## Publish
+publish/
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+coverage.opencover.xml
+
+## Local secrets
+appsettings.*.json
+secrets.json
+.env
+
+## OS
+Thumbs.db
+.DS_Store
